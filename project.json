@@ -31,6 +31,10 @@
         ],
         "contributors": [
             {
+                "full_name": "Jonathan Menir",
+                "role": "Porteur de projet"
+            },
+            {
                 "full_name": "Julien Lebunetel",
                 "email": "julien@myhumankit.org",
                 "github_username": "jlebunetel",

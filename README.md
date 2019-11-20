@@ -4,7 +4,7 @@
 
 L'idée de Jonathan est de recréer un contacteur de type micro-light à faible pression avec un connecteur jack 3.5 mm. Ce contacteur est utilisé pour contrôler l'environnement en se branchant sur le fauteuil.
 
-![featured_image](https://raw.githubusercontent.com/myhumankit/myworkshop/master/images/default_featured_image.jpg)
+![featured_image](/images/contacteur_faible_pression.jpg)
 
 ## Liens
  * [documentation du projet](https://docs.humanlab.me/myhumankit/contacteur-faible-pression)
@@ -39,6 +39,7 @@ Si vous souhaitez contribuer au projet, merci de créer une _issue_ ou de _forke
 Ce projet est diffusé sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de details.
 
 ## Contributeurs
+ * **Jonathan Menir** (Porteur de projet)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
 
 ---
@@ -78,4 +79,5 @@ If you'd like to contribute, please raise an issue or fork the repository and us
 The code in this project is licensed under MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contributors
+ * **Jonathan Menir** (Project's owner)
  * **Julien Lebunetel** - [jlebunetel](https://github.com/jlebunetel)
